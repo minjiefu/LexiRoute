@@ -25,6 +25,3 @@ This project leverages a **Serverless Architecture** to provide a scalable and c
 * **Graph Intelligence:** Supports complex directed graphs with edge weights of 1.
 * **Instant Response:** Pre-calculated routing tables ensure immediate feedback without redundant calculations.
 
-
-## 📄 License
-This project is for educational purposes as part of the CS/Finance Cloud Development curriculum.
